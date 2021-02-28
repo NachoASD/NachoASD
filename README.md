@@ -12,7 +12,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-9b59b6?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-c0392b?style=flat-square&logo=mysql&logoColor=white)
 ![JS](https://img.shields.io/badge/-JS-f39c12?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-f39c12?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-e67e22?style=flat-square&logo=java&logoColor=white)
 
 ## 📊Mis estadísticas
 
