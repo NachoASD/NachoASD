@@ -24,5 +24,5 @@
   <img align="center" alt="GitHub Stats NachoASD" src="https://github-readme-stats.vercel.app/api?username=NachoASD&show_icons=true&theme=dark&locale=en&count_private=true&hide_title=trueinclude_all_commits=true"/>
 </a>
 <a href="https://github.com/NachoASD">
-  <img align="center" alt="GitHub Stats NachoASD" src="https://github-readme-stats.vercel.app/api/wakatime?username=apolosys&custom_title=Actividad%20de%20NachoASD%20 (7 dias)"/>
+  <img align="center" alt="GitHub Stats NachoASD" src="https://github-readme-stats.vercel.app/api/wakatime?username=NachoASD&custom_title=Actividad%20de%20NachoASD%20 (7 dias)"/>
 </a>
