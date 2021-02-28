@@ -4,7 +4,7 @@
 
 ## 💻 Conocimientos
 
-![LUA](https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua)
+![LUA](https://img.shields.io/badge/-Lua-3498db?style=flat-square&logo=lua)
 ![C#](http://img.shields.io/badge/-CSharp-2c3e50?style=flat-square&logo=C#)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
