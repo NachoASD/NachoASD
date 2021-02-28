@@ -3,7 +3,11 @@
 - 🧿 Fivem Forum: <a href="https://forum.cfx.re/u/nachoasd/">NachoASD</a>
 - 📭 Discord: NachoASD#5887
 
-## 💻 Conocimientos
+## 🎫 Proyectos:
+
+
+
+## 💻 Conocimientos:
 
 ![LUA](https://img.shields.io/badge/-Lua-3498db?style=flat-square&logo=lua&logoColor=white)
 ![C#](http://img.shields.io/badge/-CSharp-2c3e50?style=flat-square&logo=C#&logoColor=white)
@@ -15,7 +19,7 @@
 ![JS](https://img.shields.io/badge/-JS-f39c12?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-e67e22?style=flat-square&logo=java&logoColor=white)
 
-## 📊Mis estadísticas
+## 📈Estadísticas:
 
 
 <a href="https://github.com/NachoASD">
