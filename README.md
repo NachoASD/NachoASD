@@ -1,6 +1,6 @@
 # Hola, que tal? Mi nombre es Nacho.
 
-- 🧿 Fivem Forum: <a href="https://forum.cfx.re/follow/NachoASD">NachoASD</a>
+- 🧿 Fivem Forum: <a href="https://forum.cfx.re/u/nachoasd/">NachoASD</a>
 - 📭 Discord: NachoASD#5887
 
 ## 💻 Conocimientos
