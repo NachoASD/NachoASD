@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-d35400?style=flat-square&logo=html&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1abc9c?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-9b59b6?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-d35400?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-c0392b?style=flat-square&logo=mysql)
 
 ## 📊Mis estadísticas
 
