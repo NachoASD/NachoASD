@@ -5,6 +5,8 @@
 
 ## 🎫 Proyectos:
 
+- 🌊WaveRp Es un servidor de rol en FiveM en el cual pretendemos romper con la dinamica general de todos los servidores con un aspecto tanto rompedor como inovador
+
 
 
 ## 💻 Conocimientos:
