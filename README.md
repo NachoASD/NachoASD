@@ -7,7 +7,7 @@
 
 - 🌊WaveRp Es un servidor de rol en FiveM en el cual pretendemos romper con la dinamica general de todos los servidores con un aspecto tanto rompedor como inovador
 
-- ![](https://cdn.discordapp.com/avatars/839535749871042581/e56982b6b1c38559a78cab6f7dedf667.png?size=32)WaveRp Es un servidor de rol en FiveM en el cual pretendemos romper con la dinamica general de todos los servidores con un aspecto tanto rompedor como inovador
+- ![](https://cdn.discordapp.com/avatars/839535749871042581/e56982b6b1c38559a78cab6f7dedf667.png?size=16)WaveRp Es un servidor de rol en FiveM en el cual pretendemos romper con la dinamica general de todos los servidores con un aspecto tanto rompedor como inovador
 
 
 
