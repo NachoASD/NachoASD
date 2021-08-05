@@ -5,7 +5,7 @@
 
 ## 🎫 Proyectos:
 
-- ![](https://cdn.discordapp.com/icons/855198955875729428/2fc881a891e62c5c058acfa8d4caa246.webp?size=32) FiveEyeAC - https://discord.gg/Yh2AjD5zW6
+- ![](https://cdn.discordapp.com/icons/855198955875729428/2fc881a891e62c5c058acfa8d4caa246.webp?size=16) FiveEyeAC - https://discord.gg/Yh2AjD5zW6
 
 
 
