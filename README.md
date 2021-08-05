@@ -5,9 +5,7 @@
 
 ## 🎫 Proyectos:
 
-- 🌊WaveRp Es un servidor de rol en FiveM en el cual pretendemos romper con la dinamica general de todos los servidores con un aspecto tanto rompedor como inovador
-
-- ![](https://cdn.discordapp.com/avatars/839535749871042581/e56982b6b1c38559a78cab6f7dedf667.png?size=16) IntelliS https://discord.gg/89aAzZGj4d
+- ![](https://cdn.discordapp.com/icons/855198955875729428/2fc881a891e62c5c058acfa8d4caa246.webp?size=32) FiveEyeAC - https://discord.gg/Yh2AjD5zW6
 
 
 
