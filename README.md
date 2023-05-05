@@ -1,16 +1,6 @@
-# Hey my name is Nacho
-
-## 📞 Contact:
-
-- Discord: NachoASD#5887
-
-## 💻 Knowledge:
-
-![LUA](https://img.shields.io/badge/-Lua-3498db?style=flat-square&logo=lua&logoColor=white)
-![C#](http://img.shields.io/badge/-CSharp-2c3e50?style=flat-square&logo=C#&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-27ae60?style=flat-square&logo=Node.js&logoColor=white)
-![Golang](https://img.shields.io/badge/-GO-00add8?style=flat-square&logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-d35400?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1abc9c?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-9b59b6?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-c0392b?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=nachoasd&show_icons=true&count_private=true&theme=tokyonight&hide=issues,contribs,prs,stars&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src =https://github-readme-stats.vercel.app/api/top-langs/?username=nachoasd&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
+  <img src ="https://streak-stats.demolab.com?user=NachoASD&theme=tokyonight&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=EBEBEB00">
+  <img src ="https://discord-readme-badge.vercel.app/api?id=432915442105974787">
+</p>
