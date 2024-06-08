@@ -1,5 +1,6 @@
 ## Building big solutions for big problems
-#### Actively working with @MarbellaRP
+#### Main developer of @MarbellaRP 2021 - 2024
+#### Actively main developer on @MalagaCommunity
 
 ### Languages & Tools:
 #### Backend
