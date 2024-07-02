@@ -1,6 +1,7 @@
 ## Building big solutions for big problems
-#### Head developer of @MarbellaRP 2021 - 2024
+#### CEO of ASD Solutions, SL
 #### Actively lead developer in @MalagaCommunity
+#### Head developer of @MarbellaRP 2021 - 2024
 
 ### Languages & Tools:
 #### Backend
