@@ -1,13 +1,15 @@
 ## Building big solutions for big problems
 #### CEO of ASD Solutions, SL
-#### Lead developer of @MalagaCommunity 2024
+
+#### Full Stack developer on [@LegacyNetwork](https://linktr.ee/LegacyNet) 2024
+#### Lead developer of [@MalagaCommunity](https://malagacommunity.es/) 2024
 #### Head developer of @MarbellaRP 2021 - 2024
 
 ### Languages & Tools:
 #### Backend
-![BE](https://skillicons.dev/icons?i=go,lua,nodejs,cpp,python)
+![BE](https://skillicons.dev/icons?i=go,lua,nodejs,ts,cpp,python)
 #### Frontend
-![FE](https://skillicons.dev/icons?i=nextjs,tailwind,js,react,webpack)
+![FE](https://skillicons.dev/icons?i=nextjs,tailwind,js,react,vite,webpack)
 #### Databases
 ![DB](https://skillicons.dev/icons?i=redis,mysql,mongodb)
 #### DevOps
