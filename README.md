@@ -1,7 +1,7 @@
 ## Building big solutions for big problems
 #### CEO of ASD Solutions, SL
 
-#### Full Stack developer on [@LegacyNetwork](https://linktr.ee/LegacyNet) 2024
+#### Full Stack developer on [@LegacyNetwork](https://linktr.ee/LegacyNet) 2024 - 2025
 #### Lead developer of [@MalagaCommunity](https://malagacommunity.es/) 2024
 #### Head developer of @MarbellaRP 2021 - 2024
 
